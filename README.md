@@ -267,11 +267,6 @@ The Streamlit app includes 5 sections:
 
 ### Step 1: Clone the Repository
 
-```bash
-git clone https://github.com/YourUsername/AI-Echo-Sentiment-Analysis.git
-cd AI-Echo-Sentiment-Analysis
-```
-
 ### Step 2: Install Dependencies
 
 ```bash
@@ -361,12 +356,8 @@ Possible future enhancements:
 
 ## 👨‍💻 Author
 
-**Your Name**  
+**Abishek Raja**  
 Data Science Student  
-HCL GUVI / Your Institution Name
-
-- GitHub: [https://github.com/YourUsername](https://github.com/YourUsername)
-- Email: your-email@example.com
 
 ---
 
